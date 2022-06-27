@@ -1,2 +1,2 @@
 # American_Sign_Language_Detection
-A series of Notebooks where I discover new methods in Deep Learning to aid in increasing Classification Accuracy
+These series of Notebooks can also be used by beginners exploring Deep Learning as I explain every step and gradually explore new functionalities.
